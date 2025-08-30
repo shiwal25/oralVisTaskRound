@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color ic_launcher_background
+color white
+drawable baseline_person_add_alt_1_24
+drawable baseline_search_24
+drawable ic_camera
+drawable ic_tick
+id addNewPatient
+id cameraButton
+id constraintLayout
+id doneButton
+id fragment_capture_image
+id fragment_container
+id imageButton
+id itemImageView
+id main
+id recentSessions
+id recyclerView
+id thirdText
+layout activity_main
+layout fragment_capture_image
+layout fragment_user_details
+layout item_image
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+string search_sessions
+style Base.Theme.OralVisTaskRound
+style Theme.OralVisTaskRound
+xml backup_rules
+xml data_extraction_rules
+xml file_paths
