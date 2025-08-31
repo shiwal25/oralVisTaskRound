@@ -77,34 +77,4 @@
             android:textSize="20dp"/>
     </androidx.constraintlayout.widget.ConstraintLayout>
 
-<!--    <androidx.constraintlayout.widget.ConstraintLayout-->
-<!--        android:padding="8dp"-->
-<!--        android:id="@+id/recentSessions"-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        app:layout_constraintEnd_toEndOf="parent"-->
-<!--        app:layout_constraintStart_toStartOf="parent"-->
-<!--        app:layout_constraintTop_toBottomOf="@id/addNewPatient">-->
-
-<!--        <androidx.recyclerview.widget.RecyclerView-->
-<!--            android:padding="8dp"-->
-<!--            android:layout_marginTop="8dp"-->
-<!--            android:id="@+id/recyclerView"-->
-<!--            android:layout_width="match_parent"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            app:layout_constraintBottom_toBottomOf="@id/recentSessions"-->
-<!--            app:layout_constraintTop_toBottomOf="@id/thirdText">-->
-
-<!--        </androidx.recyclerview.widget.RecyclerView>-->
-
-<!--        <TextView-->
-<!--            android:layout_width="wrap_content"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:text="Recent Sessions"-->
-<!--            android:textSize="40dp"-->
-<!--            app:layout_constraintEnd_toEndOf="parent"-->
-<!--            app:layout_constraintStart_toStartOf="parent"-->
-<!--            app:layout_constraintTop_toTopOf="parent"-->
-<!--            android:id="@+id/thirdText"/>-->
-<!--    </androidx.constraintlayout.widget.ConstraintLayout>-->
 </androidx.constraintlayout.widget.ConstraintLayout>

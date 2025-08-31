@@ -38,7 +38,6 @@ class userDetails : Fragment() {
         age = view.findViewById(R.id.age)
         saveButton = view.findViewById(R.id.saveButton)
 
-        // Get images from bundle
         @Suppress("DEPRECATION")
         images = arguments?.getParcelableArrayList("images")
 
@@ -66,10 +65,10 @@ class userDetails : Fragment() {
 
             val savedPaths = mutableListOf<String>()
 
-            // Save each image to /Android/media/<AppName>/Sessions/<SessionID>/
-            val appName = "OralVis" // change to your app name
+
+            val appName = "OralVis"
             val dir = File(
-                requireContext().getExternalMediaDirs()[0],
+                requireContext().externalMediaDirs[0],
                 "$appName/Sessions/$id"
             )
             if (!dir.exists()) dir.mkdirs()
@@ -79,18 +78,18 @@ class userDetails : Fragment() {
                 val fileName = "IMG_${timeStamp}.jpg"
                 val destFile = File(dir, fileName)
 
-                if (!destFile.exists()) {  // prevent duplicate save
+                if (!destFile.exists()) {
                     saveUriToFile(uri, destFile)
                     savedPaths.add(destFile.absolutePath)
                 }
             }
 
-            // Save into SQLite
+
             dbHelper.insertOrUpdateSession(
                 id,
                 userName,
                 userAge.toInt(),
-                savedPaths.joinToString(",") // store as comma-separated
+                savedPaths.joinToString(",")
             )
 
             Toast.makeText(requireContext(), "Session saved!", Toast.LENGTH_SHORT).show()

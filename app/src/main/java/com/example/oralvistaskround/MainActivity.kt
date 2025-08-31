@@ -12,7 +12,7 @@ import androidx.fragment.app.commit
 
 class MainActivity : AppCompatActivity() {
 
-    private lateinit var imageButton: ImageButton;
+    private lateinit var imageButton: ImageButton
     private lateinit var searchEditText: EditText
     private lateinit var searchButton: ImageButton
     private lateinit var dbHelper: SessionDatabase
@@ -29,14 +29,14 @@ class MainActivity : AppCompatActivity() {
         imageButton = findViewById(R.id.cameraButton)
         imageButton.setOnClickListener {
             supportFragmentManager.commit {
-                replace(R.id.main, CaptureImageFragment()) // Your fragment
-                addToBackStack(null) // Optional: allows back navigation
+                replace(R.id.main, CaptureImageFragment())
+                addToBackStack(null)
             }
         }
 
         dbHelper = SessionDatabase(this)
 
-        searchEditText = findViewById(R.id.editTextSearch) // your EditText ID
+        searchEditText = findViewById(R.id.editTextSearch)
         searchButton = findViewById(R.id.imageButton)
 
         searchButton.setOnClickListener {
@@ -47,7 +47,6 @@ class MainActivity : AppCompatActivity() {
             }
             val session = dbHelper.getSession(sessionId)
             if (session != null) {
-                // Open session details fragment
                 val fragment = SessionDetailsFragment()
                 val bundle = Bundle()
                 bundle.putSerializable(SessionDetailsFragment.ARG_SESSION, session)
