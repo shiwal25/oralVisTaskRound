@@ -1,134 +1,122 @@
 [
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\xml_file_paths.xml.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\xml\\file_paths.xml"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\layout_item_image.xml.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\layout\\item_image.xml"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\mipmap-mdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\mipmap-anydpi\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\drawable_baseline_person_add_alt_1_24.xml.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\drawable\\baseline_person_add_alt_1_24.xml"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\drawable_ic_camera.xml.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\drawable\\ic_camera.xml"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\drawable_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\drawable\\baseline_search_24.xml"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\drawable_baseline_search_24.xml.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\drawable\\baseline_search_24.xml"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\drawable_ic_camera.xml.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\drawable\\ic_camera.xml"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\layout_item_image.xml.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\layout\\item_image.xml"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\drawable_ic_tick.xml.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\drawable\\ic_tick.xml"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\drawable_baseline_person_add_alt_1_24.xml.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\drawable\\baseline_person_add_alt_1_24.xml"
+        "merged": "com.example.oralvistaskround.app-debug-45:/layout_fragment_session_details.xml.flat",
+        "source": "com.example.oralvistaskround.app-main-47:/layout/fragment_session_details.xml"
     },
     {
-        "merged": "com.example.oralvistaskround.app-debug-39:/layout_fragment_capture_image.xml.flat",
-        "source": "com.example.oralvistaskround.app-main-41:/layout/fragment_capture_image.xml"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\drawable_ic_tick.xml.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\drawable\\ic_tick.xml"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\mipmap-hdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\layout_fragment_session_details.xml.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\layout\\fragment_session_details.xml"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\layout_fragment_capture_image.xml.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\layout\\fragment_capture_image.xml"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\layout_fragment_capture_image.xml.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\layout\\fragment_capture_image.xml"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\xml\\file_paths.xml"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\layout_fragment_user_details.xml.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\layout\\fragment_user_details.xml"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\layout_fragment_user_details.xml.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\layout\\fragment_user_details.xml"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\xml\\backup_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\mipmap-hdpi\\ic_launcher_foreground.webp"
-    },
-    {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\drawable\\ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-39:\\mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-41:\\mipmap-anydpi\\ic_launcher.xml"
+        "merged": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-debug-45:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shivam Agrawal\\.gradle\\daemon\\8.11.1\\com.example.oralvistaskround.app-main-47:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     }
 ]

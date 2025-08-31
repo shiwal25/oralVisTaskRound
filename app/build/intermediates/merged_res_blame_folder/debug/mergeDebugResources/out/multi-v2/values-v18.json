@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.oralvistaskround.app-mergeDebugResources-37:/values-v18/values-v18.xml",
+            "outputFile": "com.example.oralvistaskround.app-mergeDebugResources-43:/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Shivam Agrawal\\.gradle\\caches\\8.11.1\\transforms\\8da7bf8a210e739584ac0acda6c9740c\\transformed\\appcompat-1.7.1\\res\\values-v18\\values-v18.xml",
+                    "source": "C:\\Users\\Shivam Agrawal\\.gradle\\caches\\8.11.1\\transforms\\216a4879a4cada9a17e15888ef3ec768\\transformed\\appcompat-1.7.1\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

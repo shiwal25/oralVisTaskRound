@@ -47,4 +47,11 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
     val fragmentVersion = "1.8.9"
     implementation(libs.androidx.fragment.ktx)
+    val camerax_version = "1.3.4"
+    implementation (libs.androidx.camera.core)
+    implementation (libs.androidx.camera.camera2)
+    implementation (libs.androidx.camera.lifecycle)
+    implementation (libs.androidx.camera.view)
+    implementation (libs.androidx.camera.extensions)
+
 }

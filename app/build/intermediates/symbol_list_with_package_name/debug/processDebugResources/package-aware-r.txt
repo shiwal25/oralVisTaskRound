@@ -654,6 +654,7 @@ attr imagePanX
 attr imagePanY
 attr imageRotate
 attr imageZoom
+attr implementationMode
 attr indeterminateAnimationType
 attr indeterminateProgressStyle
 attr indicatorColor
@@ -1021,6 +1022,7 @@ attr round
 attr roundPercent
 attr saturation
 attr scaleFromTextSize
+attr scaleType
 attr scrimAnimationDuration
 attr scrimBackground
 attr scrimVisibleHeightTrigger
@@ -3185,6 +3187,7 @@ id actions
 id activity_chooser_view_content
 id add
 id addNewPatient
+id age
 id alertTitle
 id aligned
 id all
@@ -3238,6 +3241,7 @@ id clip_vertical
 id clockwise
 id closest
 id collapseActionView
+id compatible
 id compress
 id confirm_button
 id constraint
@@ -3276,6 +3280,7 @@ id disablePostScroll
 id disableScroll
 id disjoint
 id doneButton
+id done_card
 id dragAnticlockwise
 id dragClockwise
 id dragDown
@@ -3290,6 +3295,7 @@ id easeInOut
 id easeOut
 id east
 id edge
+id editTextSearch
 id edit_query
 id edit_text_id
 id elastic
@@ -3304,6 +3310,9 @@ id expand_activities_button
 id expanded_menu
 id fade
 id fill
+id fillCenter
+id fillEnd
+id fillStart
 id fill_horizontal
 id fill_vertical
 id filled
@@ -3317,7 +3326,6 @@ id flip
 id floating
 id forever
 id fragment_capture_image
-id fragment_container
 id fragment_container_view_tag
 id frost
 id fullscreen_header
@@ -3363,6 +3371,9 @@ id legacy
 id line1
 id line3
 id linear
+id linearLayout1
+id linearLayout2
+id linearLayout3
 id listMode
 id list_item
 id m3_side_sheet
@@ -3426,6 +3437,7 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id name
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
 id navigation_bar_item_icon_view
@@ -3475,6 +3487,7 @@ id path
 id pathRelative
 id peekHeight
 id percent
+id performance
 id pin
 id position
 id postLayout
@@ -3483,7 +3496,6 @@ id progress_circular
 id progress_horizontal
 id radio
 id ratio
-id recentSessions
 id rectangles
 id recyclerView
 id report_drawn
@@ -3494,6 +3506,8 @@ id right_icon
 id right_side
 id rounded
 id row_index_key
+id rvPhotos
+id saveButton
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -3517,6 +3531,7 @@ id search_voice_btn
 id select_dialog_listview
 id selected
 id selection_type
+id sessionID
 id sharedValueSet
 id sharedValueUnset
 id shortcut
@@ -3587,7 +3602,6 @@ id textinput_helper_text
 id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
-id thirdText
 id time
 id title
 id titleDividerNoCustom
@@ -3596,6 +3610,7 @@ id toggle
 id top
 id topPanel
 id touch_outside
+id tp
 id transitionToEnd
 id transitionToStart
 id transition_clip
@@ -3607,6 +3622,9 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id tvAge
+id tvName
+id tvSessionId
 id unchecked
 id uniform
 id unlabeled
@@ -3764,6 +3782,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout fragment_capture_image
+layout fragment_session_details
 layout fragment_user_details
 layout ime_base_split_test_activity
 layout ime_secondary_split_test_activity
@@ -5244,6 +5263,7 @@ styleable OnClick clickAction targetId
 styleable OnSwipe autoCompleteMode dragDirection dragScale dragThreshold limitBoundsTo maxAcceleration maxVelocity moveWhenScrollAtTop nestedScrollFlags onTouchUp rotationCenterId springBoundary springDamping springMass springStiffness springStopThreshold touchAnchorId touchAnchorSide touchRegionId
 styleable PopupWindow android_popupBackground android_popupAnimationStyle overlapAnchor
 styleable PopupWindowBackgroundState state_above_anchor
+styleable PreviewView implementationMode scaleType
 styleable PropertySet android_visibility android_alpha layout_constraintTag motionProgress visibilityMode
 styleable RadialViewGroup materialCircleRadius
 styleable RangeSlider minSeparation values

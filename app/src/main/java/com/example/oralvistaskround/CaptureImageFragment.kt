@@ -85,8 +85,7 @@ class CaptureImageFragment : Fragment() {
             }
 
             parentFragmentManager.beginTransaction()
-                .replace(R.id.fragment_container, fragment)
-                .addToBackStack(null)
+                .replace(R.id.fragment_capture_image, fragment)
                 .commit()
         }
 
